@@ -4,6 +4,9 @@ This data set has been generated using data from the Gapminder website, which fo
 
 This particular data set describes the values of several parameters (see the list below) between 1998 and 2018 for a total of 175 countries, having a total of 3675 rows. The parameters included in the data set and the column name of the dataframe are as follows:
 
+![GapMinder](https://github.com/EslamFouadd/EDA_Bootcamp/assets/77150715/969cbef2-603d-4430-9c58-699037165e0e)
+
+
 1. Country (country). Describes the country name
 
 2. Continent (continent). Describes the continent to which the country belongs

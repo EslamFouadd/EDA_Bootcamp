@@ -4,21 +4,21 @@ This data set has been generated using data from the Gapminder website, which fo
 
 This particular data set describes the values of several parameters (see the list below) between 1998 and 2018 for a total of 175 countries, having a total of 3675 rows. The parameters included in the data set and the column name of the dataframe are as follows:
 
-Country (country). Describes the country name
+1. Country (country). Describes the country name
 
-Continent (continent). Describes the continent to which the country belongs
+2. Continent (continent). Describes the continent to which the country belongs
 
-Year (year). Describes the year to which the data belongs
+3. Year (year). Describes the year to which the data belongs
 
-Life expectancy (life_exp). Describes the life expectancy for a given country in a given year
+4. Life expectancy (life_exp). Describes the life expectancy for a given country in a given year
 
-Human Development Index (hdi_index). Describes the HDI index value for a given country in a given year
+5. Human Development Index (hdi_index). Describes the HDI index value for a given country in a given year
 
-CO2 emissions per person(co2_consump). Describes the CO2 emissions in tonnes per person for a given country in a given year
+6. CO2 emissions per person(co2_consump). Describes the CO2 emissions in tonnes per person for a given country in a given year
 
-Gross Domestic Product per capita (gdp). Describes the GDP per capita in dollars for a given country in a given year
+7. Gross Domestic Product per capita (gdp). Describes the GDP per capita in dollars for a given country in a given year
 
-% Service workers (services). Describes the the % of service workers for a given country in a given year
+8. % Service workers (services). Describes the the % of service workers for a given country in a given year
 
 ## Source:
 

@@ -1,5 +1,4 @@
 # Regression Modeling in Practice
-Week 1: Writing About Your Data
 Before I dive into a multiple regression analysis of my data, I’ll take a moment to describe some of it.
 
 # Sample

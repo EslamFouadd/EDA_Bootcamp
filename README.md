@@ -6,11 +6,7 @@
 Learn SAS or Python programming, expand your knowledge of analytical methods and applications, and conduct original research to inform complex decisions.
 The Data Analysis and Interpretation Specialization takes you from data novice to data expert in just four project-based courses. You will apply basic data science tools, including data management and visualization, modeling, and machine learning using your choice of either SAS or Python, including pandas and Scikit-learn. Throughout the Specialization, you will analyze a research question of your choice and summarize your insights. In the Capstone Project, you will use real data to address an important issue in society, and report your findings in a professional-quality report. You will have the opportunity to work with our industry partners, DRIVENDATA and The Connection. Help DRIVENDATA solve some of the world's biggest social challenges by joining one of their competitions, or help The Connection better understand recidivism risk for people on parole in substance use treatment. Regular feedback from peers will provide you a chance to reshape your question. This Specialization is designed to help you whether you are considering a career in data, work in a context where supervisors are looking to you for data insights, or you just have some burning questions you want to explore. No prior experience is required. By the end you will have mastered statistical methods to conduct original research to inform complex decisions.
 
-### SKILLS YOU WILL GAIN
-
-Statistics, Data Analysis, Machine Learning, Regression Analysis, SAS Language, Python Programming, Data Management, Chi-Squared (Chi-2) Distribution, Statistical Hypothesis Testing, Analysis Of Variance (ANOVA), Logistic, Regression, Exploratory Data Analysis
-
-[AVAILABLE CODE BOOKS AND DATA SETS]
+## AVAILABLE CODE BOOKS AND DATA SETS
 
 Here are codebooks (as pdf files) and data sets (as .csv files) for each of five data sets that are used throughout the data analysis fundamentals specialization.
 [1. The U.S. National Epidemiological Survey on Alcohol and Related Conditions (NESARC)](https://d396qusza40orc.cloudfront.net/phoenixassets/data-management-visualization/NESARC Wave 1 Code Book w toc.pdf) is a survey designed to determine the magnitude of alcohol use and psychiatric disorders in the U.S. population. It is a representative sample of the non-institutionalized population 18 years and older.
@@ -36,3 +32,8 @@ http://www.gapminder.org for more information
 Outlook on Life data file (.csv)
 
 The OLL data have been generously made available to us by the Inter-university Consortium for Political and Social Research (ICPSR). These data are restricted to download and use only during this Coursera specialization. OOL files should be deleted following the completion of the capstone experience or at the end of the last assignment that you choose to complete. Data files for this survey should not be shared or re-posted at any time. Your use of this data set indicates your acceptance of these terms. Details on ICPSR membership and full access to their data archive is available at http://www.icpsr.umich.edu/icpsrweb/content/membership/index.html.
+
+
+### SKILLS YOU WILL GAIN
+
+Statistics, Data Analysis, Machine Learning, Regression Analysis, SAS Language, Python Programming, Data Management, Chi-Squared (Chi-2) Distribution, Statistical Hypothesis Testing, Analysis Of Variance (ANOVA), Logistic, Regression, Exploratory Data Analysis
